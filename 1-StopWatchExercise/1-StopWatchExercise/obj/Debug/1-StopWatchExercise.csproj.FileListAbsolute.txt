@@ -1,0 +1,6 @@
+C:\Users\Nitro\Desktop\หลักฐานโปรเจคใหม่\8-BonusStudent\1-StopWatchExercise\1-StopWatchExercise\bin\Debug\1-StopWatchExercise.exe.config
+C:\Users\Nitro\Desktop\หลักฐานโปรเจคใหม่\8-BonusStudent\1-StopWatchExercise\1-StopWatchExercise\bin\Debug\1-StopWatchExercise.exe
+C:\Users\Nitro\Desktop\หลักฐานโปรเจคใหม่\8-BonusStudent\1-StopWatchExercise\1-StopWatchExercise\bin\Debug\1-StopWatchExercise.pdb
+C:\Users\Nitro\Desktop\หลักฐานโปรเจคใหม่\8-BonusStudent\1-StopWatchExercise\1-StopWatchExercise\obj\Debug\1-StopWatchExercise.csprojAssemblyReference.cache
+C:\Users\Nitro\Desktop\หลักฐานโปรเจคใหม่\8-BonusStudent\1-StopWatchExercise\1-StopWatchExercise\obj\Debug\1-StopWatchExercise.exe
+C:\Users\Nitro\Desktop\หลักฐานโปรเจคใหม่\8-BonusStudent\1-StopWatchExercise\1-StopWatchExercise\obj\Debug\1-StopWatchExercise.pdb
