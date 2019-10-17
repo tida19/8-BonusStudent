@@ -1,0 +1,6 @@
+C:\Users\Nitro\Desktop\หลักฐานโปรเจคใหม่\8-BonusStudent\2-StackExercise\2-StackExercise\bin\Debug\2-StackExercise.exe.config
+C:\Users\Nitro\Desktop\หลักฐานโปรเจคใหม่\8-BonusStudent\2-StackExercise\2-StackExercise\bin\Debug\2-StackExercise.exe
+C:\Users\Nitro\Desktop\หลักฐานโปรเจคใหม่\8-BonusStudent\2-StackExercise\2-StackExercise\bin\Debug\2-StackExercise.pdb
+C:\Users\Nitro\Desktop\หลักฐานโปรเจคใหม่\8-BonusStudent\2-StackExercise\2-StackExercise\obj\Debug\2-StackExercise.csprojAssemblyReference.cache
+C:\Users\Nitro\Desktop\หลักฐานโปรเจคใหม่\8-BonusStudent\2-StackExercise\2-StackExercise\obj\Debug\2-StackExercise.exe
+C:\Users\Nitro\Desktop\หลักฐานโปรเจคใหม่\8-BonusStudent\2-StackExercise\2-StackExercise\obj\Debug\2-StackExercise.pdb
