@@ -1,0 +1,6 @@
+C:\Users\Nitro\Desktop\หลักฐานโปรเจคใหม่\8-BonusStudent\3-WorkflowEngineExercise\3-WorkflowEngineExercise\bin\Debug\3-WorkflowEngineExercise.exe.config
+C:\Users\Nitro\Desktop\หลักฐานโปรเจคใหม่\8-BonusStudent\3-WorkflowEngineExercise\3-WorkflowEngineExercise\bin\Debug\3-WorkflowEngineExercise.exe
+C:\Users\Nitro\Desktop\หลักฐานโปรเจคใหม่\8-BonusStudent\3-WorkflowEngineExercise\3-WorkflowEngineExercise\bin\Debug\3-WorkflowEngineExercise.pdb
+C:\Users\Nitro\Desktop\หลักฐานโปรเจคใหม่\8-BonusStudent\3-WorkflowEngineExercise\3-WorkflowEngineExercise\obj\Debug\3-WorkflowEngineExercise.csprojAssemblyReference.cache
+C:\Users\Nitro\Desktop\หลักฐานโปรเจคใหม่\8-BonusStudent\3-WorkflowEngineExercise\3-WorkflowEngineExercise\obj\Debug\3-WorkflowEngineExercise.exe
+C:\Users\Nitro\Desktop\หลักฐานโปรเจคใหม่\8-BonusStudent\3-WorkflowEngineExercise\3-WorkflowEngineExercise\obj\Debug\3-WorkflowEngineExercise.pdb
